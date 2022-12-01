@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MySQL and PostgreSQL
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: mail me waluszekp@student.agh.edu.pl
+- Link to my page: https://waluszekp.github.io/about/
 
 <!---
 waluszekp/waluszekp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
